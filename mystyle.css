@@ -1,0 +1,36 @@
+.login {
+     border-radius: 25px;
+    border: 2px solid #73AD21;
+}
+.link a{
+
+	color:white;
+	text-decoration: none;
+}
+.link a:hover , .selected {
+	color: #73AD21;
+}
+}
+.loginlocale {
+    position: relative;
+    
+    bottom: 5px;
+   
+} 
+
+.wrapper {
+    text-align: center;
+}
+
+.button {
+    position: absolute;
+    top: 50%;
+}
+.button1 {
+    position: absolute;
+    top: 85%;
+}
+
+button:hover{
+    color: #73AD21;
+}
